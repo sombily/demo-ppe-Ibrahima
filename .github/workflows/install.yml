@@ -15,4 +15,4 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - run: echo "hello"
+      - run: echo "helllo General "
